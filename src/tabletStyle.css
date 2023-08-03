@@ -1,0 +1,20 @@
+@media only screen and (min-width: 600px) and (max-width: 1100px) {
+#navbarContainer {
+
+width: 100%;
+
+}
+#navbarMenu {
+    visibility: hidden;
+}
+.icon {
+    visibility: visible;
+}
+#bannerContainer {
+    width: 100%;
+}
+#videoContainer {
+    background-position: center center;
+    
+}
+}
